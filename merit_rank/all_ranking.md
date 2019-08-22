@@ -747,7 +747,7 @@
      * 微认证： 
      
 * EasyArch-kk：2个积分，贡献点：
-     * 完成案例：[第一期](https://github.com/huaweicloud/ModelArts-Lab/issues/49#issuecomment-521509687)，[第二期](https://github.com/huaweicloud/ModelArts-Lab/issues/113#issuecomment-521667334)
+     * 完成案例：[第一期](https://github.com/huaweicloud/ModelArts-Lab/issues/49#issuecomment-521509687)，[第二期](https://github.com/huaweicloud/ModelArts-Lab/issues/113#issuecomment-521667334)，[第三期](https://github.com/huaweicloud/ModelArts-Lab/issues/219#issuecomment-523349681)，[第四期](https://github.com/huaweicloud/ModelArts-Lab/issues/402#issuecomment-523745923)，[第五期](https://github.com/huaweicloud/ModelArts-Lab/issues/637#issuecomment-523774405)
      * 体验文章：
      * 扩展案例：
      * 实际应用案例：
